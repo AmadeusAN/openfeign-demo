@@ -1,0 +1,6 @@
+server:
+  port: 8090
+#
+#feign:
+# sentinel:
+#  enabled: true # 增加对 sentinel 的支持，否则自定义的异常，限流等兜底方法不生效。
